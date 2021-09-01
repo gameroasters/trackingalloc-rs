@@ -1,0 +1,12 @@
+[package]
+name = "trackingalloc"
+version = "0.1.0"
+edition = "2018"
+authors = ["Stephan Dilly <dilly.stephan@gmail.com>"]
+description = "fast tracking allocator"
+homepage = "https://github.com/gameroasters/trackingallocator-rs"
+repository = "https://github.com/gameroasters/trackingallocator-rs"
+license = "MIT"
+readme = "README.md"
+categories = ["development-tools::profiling"]
+keywords = ["profiling","optimization"]
