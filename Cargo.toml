@@ -1,8 +1,8 @@
 [package]
 name = "trackingalloc"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2018"
-authors = ["Stephan Dilly <dilly.stephan@gmail.com>"]
+authors = ["extrawurst <mail@rusticorn.com>"]
 description = "fast tracking allocator"
 homepage = "https://github.com/gameroasters/trackingallocator-rs"
 repository = "https://github.com/gameroasters/trackingallocator-rs"
